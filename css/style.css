@@ -1,0 +1,42 @@
+body {
+	width: 380px;
+	height: 540px;
+	margin: 0 auto;
+	border: 2px solid #5a5a5a;
+	font-family: Tahoma;
+}
+
+h1 {
+	font-size: 22px;
+	text-align: center;
+}
+
+.tablet {
+	margin-top: 15px;
+	margin-left: 64px;
+}
+
+.credit {
+	width: 190px;
+	height: 33px;
+	background-color: #8bc144;
+	color: white;
+	font-size: 22px;
+	border: 0;
+	box-shadow: -3px 3px 0 rgb(156,156,156);
+}
+
+h2 {
+	text-align: center;
+}
+
+.buy {
+	margin-left: 64px;
+	width: 230px;
+	height: 45px;
+	background-color: #ff0000;
+	border: 0;
+	color: white;
+	font-size: 28px;
+	box-shadow: 0 3px 0 rgb(133,0,0);
+}
